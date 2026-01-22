@@ -1,0 +1,7 @@
+{
+  "name": "PEDro Scale Analyzer",
+  "description": "An AI-powered tool to rate randomized controlled trials (RCTs) based on the Physiotherapy Evidence Database (PEDro) scale criteria.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
