@@ -1,3 +1,4 @@
+![PEDro_Scale](https://opengraph.githubassets.com/1/gupadovezi/PEDro_Scale)
 
 
 # Run and deploy your PEDro_Scale
